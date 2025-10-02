@@ -74,7 +74,7 @@ If UM changes its internal file paths, update the plugin’s reference to `selec
 
 ## License
 
-GPL v2 or later
+MIT
 
 ---
 
