@@ -22,16 +22,10 @@ This plugin fixes the load order and prevents the crash.
 ## Installation
 
 ### From GitHub
-1. Download or clone this repository.
-2. Zip the folder:
-
-um-select2-i18n-fix/
- -um-select2-i18n-fix.php
- -README.md
-
-3. In WordPress Admin:  
+1. Download um-select2-i18n-fix.zip.
+2. In WordPress Admin:  
 `Plugins → Add New → Upload Plugin → Choose File` → upload the ZIP.
-4. Click **Activate**.
+3. Click **Activate**.
 
 ### Manual
 1. Upload the `um-select2-i18n-fix` folder into `/wp-content/plugins/`.
