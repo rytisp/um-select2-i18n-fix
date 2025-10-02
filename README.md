@@ -26,8 +26,8 @@ This plugin fixes the load order and prevents the crash.
 2. Zip the folder:
 
 um-select2-i18n-hard-fix/
-├─ um-select2-i18n-hard-fix.php
-└─ README.md
+ -um-select2-i18n-hard-fix.php
+ -README.md
 
 3. In WordPress Admin:  
 `Plugins → Add New → Upload Plugin → Choose File` → upload the ZIP.
