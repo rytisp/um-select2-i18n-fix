@@ -1,4 +1,4 @@
-# UM Select2 i18n Fix
+# WordPress Utltimate Member UM Select2 i18n Fix
 
 Fixes the common **`TypeError: Cannot read properties of undefined (reading 'define')`** caused by **Ultimate Member’s bundled Select2 i18n files** (e.g. `en.js`) when loaded before the Select2 AMD loader.
 
