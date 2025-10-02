@@ -25,8 +25,8 @@ This plugin fixes the load order and prevents the crash.
 1. Download or clone this repository.
 2. Zip the folder:
 
-um-select2-i18n-hard-fix/
- -um-select2-i18n-hard-fix.php
+um-select2-i18n-fix/
+ -um-select2-i18n-fix.php
  -README.md
 
 3. In WordPress Admin:  
@@ -34,9 +34,9 @@ um-select2-i18n-hard-fix/
 4. Click **Activate**.
 
 ### Manual
-1. Upload the `um-select2-i18n-hard-fix` folder into `/wp-content/plugins/`.
+1. Upload the `um-select2-i18n-fix` folder into `/wp-content/plugins/`.
 2. Go to WordPress Admin → **Plugins**.
-3. Activate **UM Select2 i18n Hard Fix**.
+3. Activate **UM Select2 i18n Fix**.
 
 ---
 
@@ -60,7 +60,7 @@ um-select2-i18n-hard-fix/
 1. **Still see the error?**  
 - Clear all caches (page cache, object cache, CDN, optimizer).
 - Hard refresh with `Ctrl+Shift+R` (or Cmd+Shift+R).
-- Check console for `[UM Select2 Hard Fix]` log — it reports whether jQuery, Select2, and AMD are present.
+- Check console for `[UM Select2 Fix]` log — it reports whether jQuery, Select2, and AMD are present.
 
 2. **Optimization plugins**  
 Exclude the following from aggregation/defer/async:
